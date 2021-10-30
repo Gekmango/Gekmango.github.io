@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+</head>
+<style>
+h1{text-align:center;border-bottom: 3px solid black;border-radius: 0em 0em 8em 8em;width:40%;margin-left:30%;margin-right:30%;box-shadow: 5px 0px 5px lightGrey;}
+h2{border-bottom: 3px solid black;border-radius: 0em 0em 0.1em 0.1em;box-shadow: 5px 0px 5px lightGrey;width:58.5vw;text-align:center;}
+table{width:96.5%;box-shadow: 5px 0px 5px lightGrey;font-size: 2vh}
+legend{width:35%;border:1px solid black;border-radius: 1em 1em 0em 0em;padding-left: 20px;font-size: 3vh;}
+fieldset{border-radius:1%; padding: 5px;box-shadow: 5px 0px 5px lightGrey;margin:5px}
+p{}
+</style>
+<body>
+ <h1>Что такое общество?</h1>
+ <h2>Варианты ответа</h2>
+ <section style="display:flex; flex-flow:row wrap;justify-content:space-between">
+  <aside style="flex-grow:1;margin:0px">
+   <table border="1">
+    <tr>
+     <th></th>
+     <th>Соотношение объективных и субъективных факторов общественного развития</tn>
+     <th>Соотношение материальных и духовных сфер жизни общества</tn>
+     <th>Направ­ленность исторического развития. Понятие «прогресс»</th>
+     <th>Достоинства</tn>
+     <th>Недостатки</tn>
+    </tr>
+    <tr>
+     <td style="border-bottom:3px solid black">Цивилизационный подход</td>
+     <td style="border-bottom:3px solid black">Человек — единст­венный творец истории, стоит в центре прошлого и настояще­го. Общественно-исто­рическое познание — это познание человека через формы и продук­ты его трудовой, соци­альной, политической и другой деятельности</td>
+     <td style="border-bottom:3px solid black">Ценностные установки, мировоззрение играют в развитии общества не меньшую роль, чем материальные факторы, а в ряде случаев могут стать определяющими</td>
+     <td style="border-bottom:3px solid black">Каждая цивилизация неповторима, каждая вносит свой оттенок в «палитру» человеческого многообразия. Прогресс относителен, он может охватывать отдельные сферы жизни общества: экономику, технологии. Применительно к духовной культуре это понятие можно использовать очень ограниченно</td>
+     <td style="border-bottom:3px solid black">Позволяет глубоко изучить историю конкретных обществ и народов во всем их многообразии и специфике;ориентирует на изучение тех сторон общественной жизни, которые обычно выпадают из поля зрения сторонников формационного подхода (ценности, национальные особенности, духовная жизнь, психология и др.)</td>
+     <td style="border-bottom:3px solid black">- сводит к минимуму возможности исследования закономерностей исторического развития человеческого общества/;</td>
+    </tr>
+    <tr>
+     <th style="border-top:3px solid black">Формационный подход</tn>
+     <th style="border-top:3px solid black">Объективные закономерности развития носят всеобщий характер. Хотя общественные законы прокладывают себе путь через деятельность людей, они непреложны</tn>
+     <th style="border-top:3px solid black">Материальные факторы (прежде всего произ­водство) играют решающую роль в развитии общества</tn>
+     <td style="border-bottom:3px solid black">Общество движется от бо­лее низкой к более высокой ступени развития. Главные критерии про­гресса связаны с совершенствованием производ­ственных отношений</td>
+     <td style="border-bottom:3px solid black">Позволяет:
+- увидеть то общее, что было в историческом раз­витии различных народов;
+- представить историю человеческого общества как единый процесс; 
+— установить определен­ные закономерности ис­торического развития об­щества;
+- предложить опреде­ленную периодизацию всемирной истории и ис­тории отдельных стран
+- Нет уникальность</td>
+     <td style="border-bottom:3px solid black"></td>
+    </tr>
